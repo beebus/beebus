@@ -10,7 +10,7 @@
   - CSIS-4355-001: Software Assurance
 
 - 📫 How to reach me:
-  - michael.beebower@g.austincc.edu
+  - michael.beebower@gmail.com
   - https://www.linkedin.com/in/michael-beebower/
 
 <!--
