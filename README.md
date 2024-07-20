@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on the [Postman API Producer certification](https://academy.postman.com/path/api-producers) and the [GitHub Foundations Certification Program](https://www.youtube.com/watch?v=Jdc0i7RcBv8).
 
 - 🏆 I recently received the [AWS Certified Developer - Associate badge](https://www.credly.com/earner/earned/share/c52ed410-7718-43a1-a270-12aa4e7b30f5).
 
