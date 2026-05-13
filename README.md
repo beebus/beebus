@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- 🏆 I received the [AWS Certified Developer - Associate badge](https://www.credly.com/earner/earned/share/c52ed410-7718-43a1-a270-12aa4e7b30f5).
-
-- 🧑‍🏫 I graduated at ACC with a [Bachelor of Applied Science in Software Development](https://sites.austincc.edu/cs/bas/) degree.
-
 - 📫 How to reach me:
   - michael.beebower@gmail.com
   - https://www.linkedin.com/in/michael-beebower/
